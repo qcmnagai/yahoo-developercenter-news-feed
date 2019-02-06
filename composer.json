@@ -1,0 +1,14 @@
+{
+    "require": {
+        "fabpot/goutte": "^3.2",
+        "mibe/feedwriter": "^1.1"
+    },
+    "scripts": {
+        "build": [
+            "php ./build.php"
+        ],
+        "publish": [
+            "git diff --exit-code || git commit -am 'Update feed by ci' && git push origin master"
+        ]
+    }
+}
