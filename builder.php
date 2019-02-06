@@ -37,4 +37,4 @@ foreach($articles as $article) {
     $Feed->addItem($newItem);
 }
 
-file_put_contents(__DIR__.'/public/feed.atom', $Feed->generateFeed(), LOCK_EX);
+file_put_contents(__DIR__.'/docs/feed', $Feed->generateFeed(), LOCK_EX);
