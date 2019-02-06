@@ -20,7 +20,8 @@ foreach($articles as $article) {
     $newItem = $Feed->createNewItem();
 
     $link = $article->childNodes[1]->childNodes[0];
-    $newItem->setTitle($link->textContent);
+    $title = trim($link->textContent);
+    $newItem->setTitle($title);
 
     $href = $link->attributes[0];
     $newItem->setLink($href->textContent);
@@ -29,8 +30,8 @@ foreach($articles as $article) {
     $updatedDatetime = \DateTime::createFromFormat('Y年n月j日H:i', str_replace(' ', '', $date->textContent));
     $newItem->setDate($updatedDatetime);
 
-    //$newItem->setDescription($link->textContent.'...');
-    //$newItem->setContent($link->textContent.'...');
+    $newItem->setDescription($title.'...');
+    $newItem->setContent($title.'...');
     $Feed->addItem($newItem);
 }
 
