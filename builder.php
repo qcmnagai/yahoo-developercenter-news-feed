@@ -12,8 +12,8 @@ $Feed->setDescription('');
 $Feed->setLink('https://biz.marketing.yahoo.co.jp/developercenter/news/');
 $Feed->setDate(new DateTime());
 $Feed->setChannelElement('author', 'Yahoo Japan');
-$Feed->setSelfLink('https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom');
-$Feed->setAtomLink('https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom');
+$Feed->setSelfLink('https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml');
+$Feed->setAtomLink('https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml');
 
 //Create an empty Item
 $client = new Client();
@@ -37,4 +37,4 @@ foreach($articles as $article) {
     $Feed->addItem($newItem);
 }
 
-file_put_contents(__DIR__.'/docs/feed', $Feed->generateFeed(), LOCK_EX);
+file_put_contents(__DIR__.'/docs/atom.xml', $Feed->generateFeed(), LOCK_EX);
