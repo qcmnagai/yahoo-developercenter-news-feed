@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Yahoo Japan Marketing Solution Developer Center News</title>
+<subtitle></subtitle>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
+<link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom" rel="self" type="application/atom+xml"></link>
+<link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom"></link>
+<updated>2019-02-06T17:36:56+09:00</updated>
+<author>Yahoo Japan</author>
+<id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>スポンサードサーチ レポート作成に関する不具合発生について</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/639519/"></link>
+<id>urn:uuid:e682765c-1aef-077d-9187-8d68aa555a9e</id>
+<updated>2019-02-05T15:05:00+09:00</updated>
+</entry>
+<entry>
+<title>スポンサードサーチAPI V201901 システムリリース完了のお知らせ</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/631986/"></link>
+<id>urn:uuid:85fcdec1-1631-5a25-beaa-0df61f8bc4ca</id>
+<updated>2019-01-30T17:59:00+09:00</updated>
+</entry>
+<entry>
+<title>YDN 新たな広告掲載方式「動的ディスプレイ広告」の開始について</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/638385/"></link>
+<id>urn:uuid:c048126a-75cc-cc77-06f8-02ad6575a5e0</id>
+<updated>2019-01-30T14:18:00+09:00</updated>
+</entry>
+<entry>
+<title>（終了）YDN 広告管理ツール システムメンテナンスのお知らせ</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/625212/"></link>
+<id>urn:uuid:61ef5c28-dc6c-3f58-4f72-56f7c2c6367b</id>
+<updated>2019-01-28T11:00:00+09:00</updated>
+</entry>
+<entry>
+<title>YDN ラベル機能の追加と、パフォーマンスデータの表示改善</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/629532/"></link>
+<id>urn:uuid:85dd21ee-9a31-6679-d561-aeee5a0a1f12</id>
+<updated>2019-01-23T19:28:00+09:00</updated>
+</entry>
+<entry>
+<title>YDN ターゲティング機能改善について追加のお知らせ</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/628308/"></link>
+<id>urn:uuid:239a316e-3f71-8297-d6b9-b968e693f678</id>
+<updated>2019-01-22T13:28:00+09:00</updated>
+</entry>
+<entry>
+<title>YDN PC版Yahoo! JAPANトップページへの広告掲載対応について</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/625308/"></link>
+<id>urn:uuid:d8d57931-2764-acaa-6208-4cdb5b52256b</id>
+<updated>2019-01-11T11:40:00+09:00</updated>
+</entry>
+<entry>
+<title>YDN API Ver.6.1.0システム終了のお知らせ</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/619626/"></link>
+<id>urn:uuid:d6a9f67d-35a4-f513-8d88-706844feed28</id>
+<updated>2018-12-19T11:00:00+09:00</updated>
+</entry>
+<entry>
+<title>スポンサードサーチ　自動入札の機能追加と自動入札タイプの一部提供終了および一部項目削除のお知らせ</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/594386/"></link>
+<id>urn:uuid:5dca378e-146a-de12-3069-638de8841f2b</id>
+<updated>2018-12-13T13:00:00+09:00</updated>
+</entry>
+<entry>
+<title>YDN インタレストカテゴリーの一部提供終了</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/613061/"></link>
+<id>urn:uuid:8815caba-d5b8-4a45-de60-ba427475d63b</id>
+<updated>2018-12-13T11:30:00+09:00</updated>
+</entry>
+</feed>
