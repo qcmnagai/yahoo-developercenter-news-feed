@@ -5,7 +5,7 @@
     },
     "scripts": {
         "build": [
-            "php ./build.php"
+            "php ./builder.php"
         ],
         "publish": [
             "git diff --exit-code || git commit -am 'Update feed by ci' && git push origin master"
