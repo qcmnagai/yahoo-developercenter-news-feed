@@ -11,9 +11,7 @@ $Feed->setTitle('Yahoo Japan Marketing Solution Developer Center News');
 $Feed->setDescription('');
 $Feed->setLink('https://biz.marketing.yahoo.co.jp/developercenter/news/');
 $Feed->setDate(new DateTime());
-$Feed->setChannelElement('author', 'Yahoo Japan');
 $Feed->setSelfLink('https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml');
-$Feed->setAtomLink('https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml');
 
 //Create an empty Item
 $client = new Client();
