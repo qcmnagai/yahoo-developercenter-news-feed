@@ -8,7 +8,6 @@ use FeedWriter\ATOM;
 
 $Feed = new ATOM();
 $Feed->setTitle('Yahoo Japan Marketing Solution Developer Center News');
-$Feed->setDescription('');
 $Feed->setLink('https://biz.marketing.yahoo.co.jp/developercenter/news/');
 $Feed->setDate(new DateTime());
 $Feed->setSelfLink('https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml');
