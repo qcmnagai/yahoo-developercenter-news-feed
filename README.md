@@ -1,1 +1,1 @@
-# yahoo-developercenter-feed-creator
+# yahoo-developercenter-news-feed
