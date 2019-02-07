@@ -27,7 +27,7 @@ workflows:
   version: 2
   test_and_release:
     jobs:
-      - build
+      - build:
           filters:
             branches:
               only: master
