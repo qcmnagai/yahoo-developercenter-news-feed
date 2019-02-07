@@ -16,6 +16,7 @@ $Feed->setSelfLink('https://qcmnagai.github.io/yahoo-developercenter-news-feed/a
 $client = new Client();
 $crawler = $client->request('GET', 'https://biz.marketing.yahoo.co.jp/developercenter/news/');
 $articles = $crawler->filter('article.cat');
+$latestUpdatedDatetime = '';
 foreach($articles as $article) {
     $newItem = $Feed->createNewItem();
 
@@ -28,11 +29,18 @@ foreach($articles as $article) {
 
     $date = $article->childNodes[3];
     $updatedDatetime = \DateTime::createFromFormat('Y年n月j日H:i', str_replace(' ', '', $date->textContent));
+    if ($latestUpdatedDatetime < $updatedDatetime) {
+        $latestUpdatedDatetime = $updatedDatetime;
+    }
     $newItem->setDate($updatedDatetime);
 
-    $newItem->setDescription($title.'...');
-    $newItem->setContent($title.'...');
+    //$newItem->setDescription($title.'...');
+    //$newItem->setContent($title.'...');
     $Feed->addItem($newItem);
+}
+
+if ($latestUpdatedDatetime) {
+    $Feed->setDate($latestUpdatedDatetime);
 }
 
 file_put_contents(__DIR__.'/docs/atom.xml', $Feed->generateFeed(), LOCK_EX);
