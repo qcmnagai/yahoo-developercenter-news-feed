@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2019-02-05T15:05:00+09:00</updated>
+<updated>2019-02-07T11:00:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>YDN ラベル機能の追加と、パフォーマンスデータの表示改善 完了のお知らせ</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/640683/"></link>
+<id>urn:uuid:82b9f34e-1111-6bb6-a205-3f732f9f6b17</id>
+<updated>2019-02-07T11:00:00+09:00</updated>
+</entry>
 <entry>
 <title>スポンサードサーチ レポート作成に関する不具合発生について</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/639519/"></link>
@@ -58,11 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/594386/"></link>
 <id>urn:uuid:5dca378e-146a-de12-3069-638de8841f2b</id>
 <updated>2018-12-13T13:00:00+09:00</updated>
-</entry>
-<entry>
-<title>YDN インタレストカテゴリーの一部提供終了</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/613061/"></link>
-<id>urn:uuid:8815caba-d5b8-4a45-de60-ba427475d63b</id>
-<updated>2018-12-13T11:30:00+09:00</updated>
 </entry>
 </feed>
