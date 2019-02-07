@@ -5,6 +5,7 @@ require __DIR__.'/vendor/autoload.php';
 
 use Goutte\Client;
 use FeedWriter\ATOM;
+use Symfony\Component\DomCrawler\Crawler;
 
 $Feed = new ATOM();
 $Feed->setTitle('Yahoo Japan Marketing Solution Developer Center News');
@@ -20,19 +21,20 @@ $latestUpdatedDatetime = '';
 foreach($articles as $article) {
     $newItem = $Feed->createNewItem();
 
-    $link = $article->childNodes[1]->childNodes[0];
-    $title = trim($link->textContent);
+    $crawler = new Crawler($article);
+    $link = $crawler->filter('a')->link();
+    $title = $link->getNode()->textContent;
     $newItem->setTitle($title);
 
-    $href = $link->attributes[0];
-    $newItem->setLink($href->textContent);
+    $uri = $link->getUri();
+    $newItem->setLink($uri);
 
-    $date = $article->childNodes[3];
-    $updatedDatetime = \DateTime::createFromFormat('Y年n月j日H:i', str_replace(' ', '', $date->textContent));
+    $dateString = $crawler->filter('p')->getNode(1)->textContent;
+    $updatedDatetime = \DateTime::createFromFormat('Y年n月j日H:i', str_replace(' ', '', $dateString));
+    $newItem->setDate($updatedDatetime);
     if ($latestUpdatedDatetime < $updatedDatetime) {
         $latestUpdatedDatetime = $updatedDatetime;
     }
-    $newItem->setDate($updatedDatetime);
 
     //$newItem->setDescription($title.'...');
     //$newItem->setContent($title.'...');
