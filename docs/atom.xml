@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2019-02-22T12:23:00+09:00</updated>
+<updated>2019-03-05T11:15:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>YDN動画広告 アスペクト比1：1（正方形）フォーマットの配信先を追加</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/659004/"></link>
+<id>urn:uuid:c9c40812-94ec-d65e-0422-cf099af3af12</id>
+<updated>2019-03-05T11:15:00+09:00</updated>
+</entry>
 <entry>
 <title>YDN　PCブランドパネルのタブレット配信と最低入札価格変更について</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/652992/"></link>
@@ -58,11 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/639519/"></link>
 <id>urn:uuid:e682765c-1aef-077d-9187-8d68aa555a9e</id>
 <updated>2019-02-05T15:05:00+09:00</updated>
-</entry>
-<entry>
-<title>スポンサードサーチAPI V201901 システムリリース完了のお知らせ</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/631986/"></link>
-<id>urn:uuid:85fcdec1-1631-5a25-beaa-0df61f8bc4ca</id>
-<updated>2019-01-30T17:59:00+09:00</updated>
 </entry>
 </feed>
