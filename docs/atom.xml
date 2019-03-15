@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2019-03-13T13:00:00+09:00</updated>
+<updated>2019-03-15T11:00:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>YDN API V201806システム終了のお知らせ</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/662166/"></link>
+<id>urn:uuid:bd73dad4-65c2-fab7-a3ae-23b3268cce86</id>
+<updated>2019-03-15T11:00:00+09:00</updated>
+</entry>
 <entry>
 <title>YDN API V201903 システムリリース完了のお知らせ</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/661464/"></link>
@@ -58,11 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/641394/"></link>
 <id>urn:uuid:1662d68d-c745-d982-2417-b8b5887ef8c6</id>
 <updated>2019-02-07T14:17:00+09:00</updated>
-</entry>
-<entry>
-<title>YDN PC版Yahoo! JAPANトップページへの広告掲載対応について</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/625308/"></link>
-<id>urn:uuid:d8d57931-2764-acaa-6208-4cdb5b52256b</id>
-<updated>2019-02-07T11:40:00+09:00</updated>
 </entry>
 </feed>
