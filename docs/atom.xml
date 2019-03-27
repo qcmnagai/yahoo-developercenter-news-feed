@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2019-03-26T14:00:00+09:00</updated>
+<updated>2019-03-27T10:40:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>スポンサードサーチ　自動入札におけるデバイス別入札価格調整率の有効範囲拡大 実施日のお知らせ</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/664905/"></link>
+<id>urn:uuid:5d1833b6-a190-f33d-ac2f-f9ace1a139b6</id>
+<updated>2019-03-27T10:40:00+09:00</updated>
+</entry>
 <entry>
 <title>YDN 統計情報の更新遅延について</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/665172/"></link>
@@ -58,11 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/651153/"></link>
 <id>urn:uuid:16e58441-5cdc-6fa6-0117-d2656e2ceef8</id>
 <updated>2019-02-20T10:45:00+09:00</updated>
-</entry>
-<entry>
-<title>YDN API ターゲティング機能の改善　実施日時のお知らせ</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/649542/"></link>
-<id>urn:uuid:34f6e534-ff0d-2882-9374-8a4a6fe6721f</id>
-<updated>2019-02-14T12:35:00+09:00</updated>
 </entry>
 </feed>
