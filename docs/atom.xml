@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2019-04-17T10:40:00+09:00</updated>
+<updated>2019-04-17T14:15:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>ゴールデンウィーク期間中の営業に関するお知らせ</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/671151/"></link>
+<id>urn:uuid:0014487d-e252-c9fa-907d-efc3529e0465</id>
+<updated>2019-04-17T14:15:00+09:00</updated>
+</entry>
 <entry>
 <title>YDN　パフォーマンスデータの仕様変更のお知らせ</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/670452/"></link>
@@ -58,11 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/661464/"></link>
 <id>urn:uuid:866bb265-2fbe-c2a0-8c2f-1b85d93bc7cd</id>
 <updated>2019-03-13T13:00:00+09:00</updated>
-</entry>
-<entry>
-<title>スポンサードサーチ「検索結果ページの目標掲載位置」の提供終了およびデータの自動移行について</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/659772/"></link>
-<id>urn:uuid:74e6493e-a2b6-ccbc-1ee1-c3ee6d89ed83</id>
-<updated>2019-03-06T10:00:00+09:00</updated>
 </entry>
 </feed>
