@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2019-04-25T11:00:00+09:00</updated>
+<updated>2019-05-02T21:56:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>スポンサードサーチ 統計情報の更新遅延について</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/672733/"></link>
+<id>urn:uuid:8afe97c8-ebc3-4591-d5e1-cdb8d6af76d3</id>
+<updated>2019-05-02T21:56:00+09:00</updated>
+</entry>
 <entry>
 <title>スポンサードサーチAPI V201805システム終了のお知らせ</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/672310/"></link>
@@ -58,11 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/665070/"></link>
 <id>urn:uuid:bd7fccb7-1b1d-2fd4-0c71-b09fbffee4c5</id>
 <updated>2019-03-26T12:45:00+09:00</updated>
-</entry>
-<entry>
-<title>YDN 動的ディスプレイ広告の機能改善について</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/663732/"></link>
-<id>urn:uuid:46380f37-d008-0415-da50-aa46f3428860</id>
-<updated>2019-03-19T13:30:00+09:00</updated>
 </entry>
 </feed>
