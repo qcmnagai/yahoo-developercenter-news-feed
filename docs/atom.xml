@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2019-05-07T12:00:00+09:00</updated>
+<updated>2019-05-08T11:00:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>広告掲載基準「広告の有用性について」判断基準変更のお知らせ</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/672673/"></link>
+<id>urn:uuid:a7f050bb-cac9-b6d4-db1a-5200da6c448e</id>
+<updated>2019-05-08T11:00:00+09:00</updated>
+</entry>
 <entry>
 <title>スポンサードサーチ 統計情報の更新遅延について</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/672733/"></link>
@@ -58,11 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/665172/"></link>
 <id>urn:uuid:3b9c1fb6-fb9d-c5db-a2bf-5515ab1ccf74</id>
 <updated>2019-03-26T14:00:00+09:00</updated>
-</entry>
-<entry>
-<title>スポンサードサーチ　アドバンスドURL形式の配信停止と自動移行の日程について</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/665070/"></link>
-<id>urn:uuid:bd7fccb7-1b1d-2fd4-0c71-b09fbffee4c5</id>
-<updated>2019-03-26T12:45:00+09:00</updated>
 </entry>
 </feed>
