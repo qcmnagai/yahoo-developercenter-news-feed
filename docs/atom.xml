@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2019-06-14T15:34:00+09:00</updated>
+<updated>2019-06-20T10:50:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>スポンサードサーチ 広告表示オプションなどの登録上限数変更について</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/"></link>
+<id>urn:uuid:ad3b4bf2-2263-312f-7875-cfa816e82414</id>
+<updated>2019-06-20T10:50:00+09:00</updated>
+</entry>
 <entry>
 <title>【復旧済】スポンサードサーチ・YDN　AccountService リクエスト時の不具合のお知らせ</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/685954/"></link>
@@ -58,11 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/676075/"></link>
 <id>urn:uuid:31698d38-63c7-9501-a93a-de0dda7c89df</id>
 <updated>2019-05-16T12:30:00+09:00</updated>
-</entry>
-<entry>
-<title>システムメンテナンスのお知らせ</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/674164/"></link>
-<id>urn:uuid:a09992c8-af4d-29a9-6b4b-1ed401152cc8</id>
-<updated>2019-05-15T13:08:00+09:00</updated>
 </entry>
 </feed>
