@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2019-08-22T13:38:00+09:00</updated>
+<updated>2019-08-28T13:50:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>スポンサードサーチ 配信方法「設定なし：できるだけ早い時間帯に広告表示」の提供終了のお知らせ</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/739965/"></link>
+<id>urn:uuid:8aeb0f81-65da-9a84-1aa3-d916942aacfe</id>
+<updated>2019-08-28T13:50:00+09:00</updated>
+</entry>
 <entry>
 <title>Yahoo!広告APIのリリースと、現行APIへの新規利用受付の終了について</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/727933/"></link>
@@ -58,11 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/705634/"></link>
 <id>urn:uuid:8197858d-7499-4b18-2b2c-d8640a646294</id>
 <updated>2019-07-12T10:30:00+09:00</updated>
-</entry>
-<entry>
-<title>スポンサードサーチ 自動入札タイプの一部設定項目終了のお知らせ</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/685171/"></link>
-<id>urn:uuid:22ed599b-935e-e100-d9df-ba103bf55e27</id>
-<updated>2019-07-10T15:10:00+09:00</updated>
 </entry>
 </feed>
