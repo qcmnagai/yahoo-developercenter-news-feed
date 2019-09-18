@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2019-09-03T13:30:00+09:00</updated>
+<updated>2019-09-18T13:30:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>スポンサードサーチ クイックリンクオプションの機能追加について</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/751946/"></link>
+<id>urn:uuid:ac324523-f2a3-f95b-5787-51cd0d4ad4cc</id>
+<updated>2019-09-18T13:30:00+09:00</updated>
+</entry>
 <entry>
 <title>YDN　リーチレポートの追加について</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/742309/"></link>
@@ -58,11 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/707032/"></link>
 <id>urn:uuid:7f8eb17d-c691-46a1-6d15-8c9024a7157a</id>
 <updated>2019-07-25T15:30:00+09:00</updated>
-</entry>
-<entry>
-<title>スポンサードサーチ　アドバンスドURL形式広告の配信停止について</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/713353/"></link>
-<id>urn:uuid:18e9b8ab-930c-5ae3-2f08-009374041a41</id>
-<updated>2019-07-24T13:44:00+09:00</updated>
 </entry>
 </feed>
