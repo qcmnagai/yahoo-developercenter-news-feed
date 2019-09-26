@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2019-09-19T13:00:00+09:00</updated>
+<updated>2019-09-26T10:15:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>スポンサードサーチ 配信方法「設定なし：できるだけ早い時間帯に広告表示」とパフォーマンス指標「平均掲載順位」の提供終了</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/753587/"></link>
+<id>urn:uuid:041d6b64-202c-7628-767e-c71073e2c138</id>
+<updated>2019-09-26T10:15:00+09:00</updated>
+</entry>
 <entry>
 <title>YDN インポート用テンプレート、および操作履歴項目変更のお知らせ</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/751364/"></link>
@@ -58,11 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/716965/"></link>
 <id>urn:uuid:7000d198-70a2-ea14-3a34-9d3b4047c816</id>
 <updated>2019-08-01T10:34:00+09:00</updated>
-</entry>
-<entry>
-<title>スポンサードサーチ レポート指標「平均掲載順位」提供終了のお知らせ</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/715846/"></link>
-<id>urn:uuid:997adca9-addc-0569-b0a6-9e972e1e86a4</id>
-<updated>2019-07-31T10:25:00+09:00</updated>
 </entry>
 </feed>
