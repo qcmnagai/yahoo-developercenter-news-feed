@@ -3,19 +3,19 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2019-10-02T14:11:00+09:00</updated>
+<updated>2019-10-03T18:00:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>スポンサードサーチ クイックリンクオプションの機能追加　実施日について</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/754949/"></link>
+<id>urn:uuid:eef2ce08-73fe-07eb-58fc-be09887a645d</id>
+<updated>2019-10-03T18:00:00+09:00</updated>
+</entry>
 <entry>
 <title>YDN 広告掲載方式「PCブランドパネル（動的ディスプレイ広告）」の追加について</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/760961/"></link>
 <id>urn:uuid:cf9813f2-d948-733c-0afe-1d766f6b42b2</id>
 <updated>2019-10-02T14:11:00+09:00</updated>
-</entry>
-<entry>
-<title>スポンサードサーチ クイックリンクオプションの機能追加　実施日延期のお知らせ</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/754949/"></link>
-<id>urn:uuid:eef2ce08-73fe-07eb-58fc-be09887a645d</id>
-<updated>2019-09-30T12:14:00+09:00</updated>
 </entry>
 <entry>
 <title>スポンサードサーチAPI V201909 システムリリース完了</title>
