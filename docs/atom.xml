@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2019-10-03T18:00:00+09:00</updated>
+<updated>2019-10-10T11:00:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>インポート用テンプレート、および操作履歴項目変更完了のお知らせ</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/767810/"></link>
+<id>urn:uuid:91fada42-67a7-9d74-e2b7-11403ab7d0a6</id>
+<updated>2019-10-10T11:00:00+09:00</updated>
+</entry>
 <entry>
 <title>スポンサードサーチ クイックリンクオプションの機能追加　実施日について</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/754949/"></link>
@@ -58,11 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/739965/"></link>
 <id>urn:uuid:8aeb0f81-65da-9a84-1aa3-d916942aacfe</id>
 <updated>2019-08-28T13:50:00+09:00</updated>
-</entry>
-<entry>
-<title>Yahoo!広告APIのリリースと、現行APIへの新規利用受付の終了について</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/727933/"></link>
-<id>urn:uuid:73544af4-f9eb-2df4-b7fa-98566c0058cb</id>
-<updated>2019-08-22T13:38:00+09:00</updated>
 </entry>
 </feed>
