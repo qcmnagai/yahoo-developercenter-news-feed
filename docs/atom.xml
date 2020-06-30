@@ -3,66 +3,66 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2019-10-10T11:00:00+09:00</updated>
+<updated>2020-06-25T19:40:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
 <entry>
-<title>インポート用テンプレート、および操作履歴項目変更完了のお知らせ</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/767810/"></link>
-<id>urn:uuid:91fada42-67a7-9d74-e2b7-11403ab7d0a6</id>
-<updated>2019-10-10T11:00:00+09:00</updated>
+<title>「広告取扱基本規定」変更のお知らせ（2020/7/1適用開始）</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/837979/"></link>
+<id>urn:uuid:237feb7a-0e38-48fa-6bb0-74bf99d5ec3d</id>
+<updated>2020-06-25T19:40:00+09:00</updated>
 </entry>
 <entry>
-<title>スポンサードサーチ クイックリンクオプションの機能追加　実施日について</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/754949/"></link>
-<id>urn:uuid:eef2ce08-73fe-07eb-58fc-be09887a645d</id>
-<updated>2019-10-03T18:00:00+09:00</updated>
+<title>Yahoo!広告 API v2システムリリースのお知らせ</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/837586/"></link>
+<id>urn:uuid:367b752a-a352-03e0-34da-a793ab264dfb</id>
+<updated>2020-06-23T13:39:00+09:00</updated>
 </entry>
 <entry>
-<title>YDN 広告掲載方式「PCブランドパネル（動的ディスプレイ広告）」の追加について</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/760961/"></link>
-<id>urn:uuid:cf9813f2-d948-733c-0afe-1d766f6b42b2</id>
-<updated>2019-10-02T14:11:00+09:00</updated>
+<title>ディスプレイ広告（YDN）のキャンペーン変換時のオーディエンスカテゴリー自動設定について</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/837154/"></link>
+<id>urn:uuid:baffe14d-4843-f320-58d5-4fdaf712c562</id>
+<updated>2020-06-22T14:10:00+09:00</updated>
 </entry>
 <entry>
-<title>スポンサードサーチAPI V201909 システムリリース完了</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/753674/"></link>
-<id>urn:uuid:1c73d14d-9019-3d2e-380a-94ac79b6b724</id>
-<updated>2019-09-26T13:30:00+09:00</updated>
+<title>ディスプレイ広告　販売制限の変更完了のお知らせ</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/836077/"></link>
+<id>urn:uuid:2831eb14-b79b-aad1-a798-837023d4025a</id>
+<updated>2020-06-15T13:44:00+09:00</updated>
 </entry>
 <entry>
-<title>スポンサードサーチ 配信方法「設定なし：できるだけ早い時間帯に広告表示」とパフォーマンス指標「平均掲載順位」の提供終了</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/753587/"></link>
-<id>urn:uuid:041d6b64-202c-7628-767e-c71073e2c138</id>
-<updated>2019-09-26T10:15:00+09:00</updated>
+<title>ディスプレイ広告（運用型）スマートフォン版Yahoo! JAPANトップページへの広告掲載開始について</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/833278/"></link>
+<id>urn:uuid:1e89ef42-0873-6f44-de07-b3b6e5b6f34f</id>
+<updated>2020-06-15T11:00:00+09:00</updated>
 </entry>
 <entry>
-<title>YDN インポート用テンプレート、および操作履歴項目変更のお知らせ</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/751364/"></link>
-<id>urn:uuid:ad1c2140-c144-c5e5-66b0-11a3768b9c38</id>
-<updated>2019-09-19T13:00:00+09:00</updated>
+<title>ディスプレイ広告 パフォーマンスデータの集計可能な期間の拡大について</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/834802/"></link>
+<id>urn:uuid:7060b735-6a30-d38f-47de-52ffbfec29c1</id>
+<updated>2020-06-10T13:23:00+09:00</updated>
 </entry>
 <entry>
-<title>スポンサードサーチ クイックリンクオプションの機能追加について</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/751946/"></link>
-<id>urn:uuid:ac324523-f2a3-f95b-5787-51cd0d4ad4cc</id>
-<updated>2019-09-18T13:30:00+09:00</updated>
+<title>ディスプレイ広告　広告管理ツール システムメンテナンスのお知らせ</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/834118/"></link>
+<id>urn:uuid:0a2fac6c-9ddd-a36b-dd58-97831aaaa003</id>
+<updated>2020-05-29T17:11:00+09:00</updated>
 </entry>
 <entry>
-<title>YDN　リーチレポートの追加について</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/742309/"></link>
-<id>urn:uuid:5a49c5a9-7f7b-e910-7126-bb23de9e6c26</id>
-<updated>2019-09-03T13:30:00+09:00</updated>
+<title>検索広告 パフォーマンスレポート作成スケジュールの設定変更の定常化について</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/833689/"></link>
+<id>urn:uuid:e48046fe-bbe0-7b02-80cd-1a9eb0221c87</id>
+<updated>2020-05-27T19:54:00+09:00</updated>
 </entry>
 <entry>
-<title>スポンサードサーチ クイックリンクオプションの仕様変更について</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/741582/"></link>
-<id>urn:uuid:40023612-9f1a-e03f-b557-0ecf43a633fc</id>
-<updated>2019-08-29T17:00:00+09:00</updated>
+<title>ディスプレイ広告　販売制限の変更について</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/832390/"></link>
+<id>urn:uuid:fe4c6172-0ec9-8611-690f-7541acb097e9</id>
+<updated>2020-05-14T15:10:00+09:00</updated>
 </entry>
 <entry>
-<title>スポンサードサーチ 配信方法「設定なし：できるだけ早い時間帯に広告表示」の提供終了のお知らせ</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/739965/"></link>
-<id>urn:uuid:8aeb0f81-65da-9a84-1aa3-d916942aacfe</id>
-<updated>2019-08-28T13:50:00+09:00</updated>
+<title>Yahoo!広告 APIへの移行のお願い</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/832222/"></link>
+<id>urn:uuid:c7d414fc-4aab-82cc-04ae-550f671abfd8</id>
+<updated>2020-05-12T18:39:00+09:00</updated>
 </entry>
 </feed>
