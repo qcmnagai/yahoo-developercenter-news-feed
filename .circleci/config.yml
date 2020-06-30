@@ -3,7 +3,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/php:7.2-node-browsers
+      - image: circleci/php:7.4-node-browsers
     working_directory: ~/repo
     steps:
       - checkout
@@ -34,7 +34,7 @@ workflows:
   schedule_workflow:
     triggers:
       - schedule:
-          cron: "0 * * * *"
+          cron: "0 9,12,15,18 * * *"
           filters:
             branches:
               only:
