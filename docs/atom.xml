@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2020-06-25T19:40:00+09:00</updated>
+<updated>2020-07-02T15:45:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>ディスプレイ広告（YDN）キャンペーン変換時のオーディエンスカテゴリー自動設定機能の提供開始</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/838657/"></link>
+<id>urn:uuid:8369df38-a789-3551-b55b-a222c0f3b714</id>
+<updated>2020-07-02T15:45:00+09:00</updated>
+</entry>
 <entry>
 <title>「広告取扱基本規定」変更のお知らせ（2020/7/1適用開始）</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/837979/"></link>
@@ -58,11 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/832390/"></link>
 <id>urn:uuid:fe4c6172-0ec9-8611-690f-7541acb097e9</id>
 <updated>2020-05-14T15:10:00+09:00</updated>
-</entry>
-<entry>
-<title>Yahoo!広告 APIへの移行のお願い</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/832222/"></link>
-<id>urn:uuid:c7d414fc-4aab-82cc-04ae-550f671abfd8</id>
-<updated>2020-05-12T18:39:00+09:00</updated>
 </entry>
 </feed>
