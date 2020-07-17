@@ -3,8 +3,20 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2020-07-02T15:45:00+09:00</updated>
+<updated>2020-07-17T15:30:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>広告掲載基準変更のお知らせ（2020/9/9適用開始）</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/841300/"></link>
+<id>urn:uuid:5ef7956a-f5c2-c203-a219-90c527fd74f2</id>
+<updated>2020-07-17T15:30:00+09:00</updated>
+</entry>
+<entry>
+<title>ディスプレイ広告 一部の掲載面における動画広告の仕様変更について</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/841186/"></link>
+<id>urn:uuid:1a40143d-7cd7-aa75-7541-9c6a7337074c</id>
+<updated>2020-07-17T10:50:00+09:00</updated>
+</entry>
 <entry>
 <title>ディスプレイ広告（YDN）キャンペーン変換時のオーディエンスカテゴリー自動設定機能の提供開始</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/838657/"></link>
@@ -52,17 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/834118/"></link>
 <id>urn:uuid:0a2fac6c-9ddd-a36b-dd58-97831aaaa003</id>
 <updated>2020-05-29T17:11:00+09:00</updated>
-</entry>
-<entry>
-<title>検索広告 パフォーマンスレポート作成スケジュールの設定変更の定常化について</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/833689/"></link>
-<id>urn:uuid:e48046fe-bbe0-7b02-80cd-1a9eb0221c87</id>
-<updated>2020-05-27T19:54:00+09:00</updated>
-</entry>
-<entry>
-<title>ディスプレイ広告　販売制限の変更について</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/832390/"></link>
-<id>urn:uuid:fe4c6172-0ec9-8611-690f-7541acb097e9</id>
-<updated>2020-05-14T15:10:00+09:00</updated>
 </entry>
 </feed>
