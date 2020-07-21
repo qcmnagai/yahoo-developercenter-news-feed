@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2020-07-17T15:30:00+09:00</updated>
+<updated>2020-07-21T14:02:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>Yahoo!広告 API v2システムリリース完了のお知らせ</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/841831/"></link>
+<id>urn:uuid:658d3c1e-9437-2d35-3225-26f7ec286b53</id>
+<updated>2020-07-21T14:02:00+09:00</updated>
+</entry>
 <entry>
 <title>広告掲載基準変更のお知らせ（2020/9/9適用開始）</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/841300/"></link>
@@ -58,11 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/834802/"></link>
 <id>urn:uuid:7060b735-6a30-d38f-47de-52ffbfec29c1</id>
 <updated>2020-06-10T13:23:00+09:00</updated>
-</entry>
-<entry>
-<title>ディスプレイ広告　広告管理ツール システムメンテナンスのお知らせ</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/834118/"></link>
-<id>urn:uuid:0a2fac6c-9ddd-a36b-dd58-97831aaaa003</id>
-<updated>2020-05-29T17:11:00+09:00</updated>
 </entry>
 </feed>
