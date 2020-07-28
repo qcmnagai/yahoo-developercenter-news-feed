@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2020-07-21T14:02:00+09:00</updated>
+<updated>2020-07-28T10:12:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>ディスプレイ広告（運用型） オーディエンスカテゴリーターゲティング　機能追加のお知らせ</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/843913/"></link>
+<id>urn:uuid:4dfc9083-2c1f-3267-52c4-51efe392149f</id>
+<updated>2020-07-28T10:12:00+09:00</updated>
+</entry>
 <entry>
 <title>Yahoo!広告 API v2システムリリース完了のお知らせ</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/841831/"></link>
@@ -58,11 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/833278/"></link>
 <id>urn:uuid:1e89ef42-0873-6f44-de07-b3b6e5b6f34f</id>
 <updated>2020-06-15T11:00:00+09:00</updated>
-</entry>
-<entry>
-<title>ディスプレイ広告 パフォーマンスデータの集計可能な期間の拡大について</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/834802/"></link>
-<id>urn:uuid:7060b735-6a30-d38f-47de-52ffbfec29c1</id>
-<updated>2020-06-10T13:23:00+09:00</updated>
 </entry>
 </feed>
