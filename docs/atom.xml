@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2020-08-04T14:59:00+09:00</updated>
+<updated>2020-08-05T10:50:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>ディスプレイ広告 一部の掲載面における動画広告の仕様変更完了のお知らせ</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/844858/"></link>
+<id>urn:uuid:175f313c-aa6b-2708-02c1-5208f67dbd58</id>
+<updated>2020-08-05T10:50:00+09:00</updated>
+</entry>
 <entry>
 <title>検索広告 拡大テキスト広告の仕様変更について</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/844969/"></link>
@@ -58,11 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/837154/"></link>
 <id>urn:uuid:baffe14d-4843-f320-58d5-4fdaf712c562</id>
 <updated>2020-06-22T14:10:00+09:00</updated>
-</entry>
-<entry>
-<title>ディスプレイ広告　販売制限の変更完了のお知らせ</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/836077/"></link>
-<id>urn:uuid:2831eb14-b79b-aad1-a798-837023d4025a</id>
-<updated>2020-06-15T13:44:00+09:00</updated>
 </entry>
 </feed>
