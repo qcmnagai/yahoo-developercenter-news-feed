@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2020-09-24T18:19:00+09:00</updated>
+<updated>2020-09-28T11:00:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>ディスプレイ広告 （運用型）オーディエンスカテゴリーの追加と一部構成の変更</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/853227/"></link>
+<id>urn:uuid:08cb0773-fbd9-25f9-e691-e73a843d0b65</id>
+<updated>2020-09-28T11:00:00+09:00</updated>
+</entry>
 <entry>
 <title>（一部訂正） Yahoo!広告 API v3 システムリリースのお知らせ</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/853233/"></link>
@@ -58,11 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/845452/"></link>
 <id>urn:uuid:060f473e-9576-6795-c359-82f719ceb14f</id>
 <updated>2020-08-27T11:46:00+09:00</updated>
-</entry>
-<entry>
-<title>コンプレックスに関する表現の広告審査について</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/849450/"></link>
-<id>urn:uuid:21b1edc8-073c-45ff-7552-0ba7fd09b2cb</id>
-<updated>2020-08-27T10:44:00+09:00</updated>
 </entry>
 </feed>
