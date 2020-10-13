@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2020-10-02T16:43:00+09:00</updated>
+<updated>2020-10-13T11:00:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>ディスプレイ広告 （運用型）オーディエンスカテゴリーの追加と一部構成の変更</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/853227/"></link>
+<id>urn:uuid:08cb0773-fbd9-25f9-e691-e73a843d0b65</id>
+<updated>2020-10-13T11:00:00+09:00</updated>
+</entry>
 <entry>
 <title>検索広告 インプレッションシェア関連項目の算出に関する変更について</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/854409/"></link>
@@ -16,12 +22,6 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/854616/"></link>
 <id>urn:uuid:f1a17690-9978-23e2-8280-224846cf5fbb</id>
 <updated>2020-09-29T14:26:00+09:00</updated>
-</entry>
-<entry>
-<title>ディスプレイ広告 （運用型）オーディエンスカテゴリーの追加と一部構成の変更</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/853227/"></link>
-<id>urn:uuid:08cb0773-fbd9-25f9-e691-e73a843d0b65</id>
-<updated>2020-09-28T11:00:00+09:00</updated>
 </entry>
 <entry>
 <title>（一部訂正） Yahoo!広告 API v3 システムリリースのお知らせ</title>
