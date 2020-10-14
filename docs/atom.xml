@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2020-10-13T11:00:00+09:00</updated>
+<updated>2020-10-14T13:56:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>アクティブアカウント移管開始のお知らせ</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/856782/"></link>
+<id>urn:uuid:04586282-1aad-a5c3-efb6-1eb22b875ea7</id>
+<updated>2020-10-14T13:56:00+09:00</updated>
+</entry>
 <entry>
 <title>ディスプレイ広告 （運用型）オーディエンスカテゴリーの追加と一部構成の変更</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/853227/"></link>
@@ -58,11 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/850386/"></link>
 <id>urn:uuid:6f37d1f0-7beb-7ba2-10ae-eaaa726d9439</id>
 <updated>2020-09-01T17:58:00+09:00</updated>
-</entry>
-<entry>
-<title>ディスプレイ広告（運用型） オーディエンスカテゴリーターゲティング　機能追加完了のお知らせ</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/850284/"></link>
-<id>urn:uuid:cdcb1928-c005-a9aa-71d8-f6eb7777c895</id>
-<updated>2020-09-01T14:31:00+09:00</updated>
 </entry>
 </feed>
