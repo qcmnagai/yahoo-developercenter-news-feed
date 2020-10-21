@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2020-10-15T09:40:00+09:00</updated>
+<updated>2020-10-21T13:08:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>Yahoo!広告 API v3 システムリリース完了のお知らせ</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/857571/"></link>
+<id>urn:uuid:346eb006-223d-f4ea-55d7-842fb86d6d10</id>
+<updated>2020-10-21T13:08:00+09:00</updated>
+</entry>
 <entry>
 <title>検索広告 インプレッションシェア関連項目の算出に関する変更について</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/854409/"></link>
@@ -58,11 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/850518/"></link>
 <id>urn:uuid:e2a9962b-e305-1d03-b549-7f16b54f501a</id>
 <updated>2020-09-02T13:49:00+09:00</updated>
-</entry>
-<entry>
-<title>広告掲載基準「薬用化粧品（医薬部外品）、化粧品」の判断基準変更のお知らせ</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/850386/"></link>
-<id>urn:uuid:6f37d1f0-7beb-7ba2-10ae-eaaa726d9439</id>
-<updated>2020-09-01T17:58:00+09:00</updated>
 </entry>
 </feed>
