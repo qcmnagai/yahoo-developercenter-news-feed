@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2020-11-04T14:30:00+09:00</updated>
+<updated>2020-11-05T11:00:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>ディスプレイ広告 （運用型）オーディエンスカテゴリーの追加と一部構成の変更完了</title>
+<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/857916/"></link>
+<id>urn:uuid:67a6ff12-3c81-06ca-a3c5-df1b1ce60e42</id>
+<updated>2020-11-05T11:00:00+09:00</updated>
+</entry>
 <entry>
 <title>ディスプレイ広告 動画再生を目的としたキャンペーンにおける入札価格の設定可能範囲の変更</title>
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/859176/"></link>
@@ -58,11 +64,5 @@
 <link href="https://biz.marketing.yahoo.co.jp/developercenter/news/853233/"></link>
 <id>urn:uuid:e64e521d-457e-805f-e908-4eeda1869253</id>
 <updated>2020-09-24T18:19:00+09:00</updated>
-</entry>
-<entry>
-<title>ディスプレイ広告　データインポート機能追加完了のお知らせ</title>
-<link href="https://biz.marketing.yahoo.co.jp/developercenter/news/853143/"></link>
-<id>urn:uuid:7982af1c-aafb-0386-bdf7-f8c92452354c</id>
-<updated>2020-09-24T14:00:00+09:00</updated>
 </entry>
 </feed>
