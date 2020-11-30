@@ -9,19 +9,19 @@ use Symfony\Component\DomCrawler\Crawler;
 
 $Feed = new ATOM();
 $Feed->setTitle('Yahoo Japan Marketing Solution Developer Center News');
-$Feed->setLink('https://biz.marketing.yahoo.co.jp/developercenter/news/');
+$Feed->setLink('https://ads-developers.yahoo.co.jp/developercenter/ja/announcement/');
 $Feed->setDate(new DateTime());
 $Feed->setSelfLink('https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml');
 
 //Create an empty Item
 $client = new Client();
-$crawler = $client->request('GET', 'https://biz.marketing.yahoo.co.jp/developercenter/news/');
-$articles = $crawler->filter('article.cat');
+$crawler = $client->request('GET', 'https://ads-developers.yahoo.co.jp/developercenter/ja/announcement/');
+$posts = $crawler->filter('li.Post__item--announce');
 $latestUpdatedDatetime = '';
-foreach($articles as $article) {
+foreach($posts as $post) {
     $newItem = $Feed->createNewItem();
 
-    $crawler = new Crawler($article);
+    $crawler = new Crawler($post);
     $link = $crawler->filter('a')->link();
     $title = $link->getNode()->textContent;
     $newItem->setTitle($title);
@@ -29,8 +29,8 @@ foreach($articles as $article) {
     $uri = $link->getUri();
     $newItem->setLink($uri);
 
-    $dateString = $crawler->filter('p')->getNode(1)->textContent;
-    $updatedDatetime = \DateTime::createFromFormat('Y年n月j日H:i', str_replace(' ', '', $dateString));
+    $dateString = $crawler->filter('p.Post__date')->getNode(0)->nodeValue;
+    $updatedDatetime = \DateTime::createFromFormat('Y/m/d', $dateString);
     $newItem->setDate($updatedDatetime);
     if ($latestUpdatedDatetime < $updatedDatetime) {
         $latestUpdatedDatetime = $updatedDatetime;
