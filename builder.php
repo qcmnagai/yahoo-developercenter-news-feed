@@ -31,6 +31,7 @@ foreach($posts as $post) {
 
     $dateString = $crawler->filter('p.Post__date')->getNode(0)->nodeValue;
     $updatedDatetime = \DateTime::createFromFormat('Y/m/d', $dateString);
+    $updatedDatetime->setTime(0, 0, 0);
     $newItem->setDate($updatedDatetime);
     if ($latestUpdatedDatetime < $updatedDatetime) {
         $latestUpdatedDatetime = $updatedDatetime;
