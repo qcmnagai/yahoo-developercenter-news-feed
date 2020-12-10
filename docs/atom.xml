@@ -3,8 +3,14 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://ads-developers.yahoo.co.jp/developercenter/ja/announcement/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2020-12-04T00:00:00+09:00</updated>
+<updated>2020-12-10T00:00:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>検索広告　品質インデックスに関する指標追加完了のお知らせ</title>
+<link href="https://ads-developers.yahoo.co.jp/developercenter/ja/announcement/202131.html"></link>
+<id>urn:uuid:7e135d52-1bfc-2539-72c9-e552d1481cfd</id>
+<updated>2020-12-10T00:00:00+09:00</updated>
+</entry>
 <entry>
 <title>クローラーのIPアドレス確認方法の変更について</title>
 <link href="https://ads-developers.yahoo.co.jp/developercenter/ja/announcement/202128.html"></link>
