@@ -3,8 +3,20 @@
 <title>Yahoo Japan Marketing Solution Developer Center News</title>
 <link href="https://ads-developers.yahoo.co.jp/developercenter/ja/announcement/"></link>
 <link href="https://qcmnagai.github.io/yahoo-developercenter-news-feed/atom.xml" rel="self" type="application/atom+xml"></link>
-<updated>2020-12-16T00:00:00+09:00</updated>
+<updated>2020-12-18T00:00:00+09:00</updated>
 <id>urn:uuid:47d2bae0-976e-aba9-1f9c-042454514a39</id>
+<entry>
+<title>ディスプレイ広告　統計項目「動画の再生完了率」追加のお知らせ</title>
+<link href="https://ads-developers.yahoo.co.jp/developercenter/ja/announcement/202141.html"></link>
+<id>urn:uuid:84f6bc01-5848-d417-2526-b57062665cf8</id>
+<updated>2020-12-18T00:00:00+09:00</updated>
+</entry>
+<entry>
+<title>ディスプレイ広告（運用型）最適化提案機能追加のお知らせ</title>
+<link href="https://ads-developers.yahoo.co.jp/developercenter/ja/announcement/post_8.html"></link>
+<id>urn:uuid:2e82f902-d339-4db9-57a2-35d2526bf14f</id>
+<updated>2020-12-18T00:00:00+09:00</updated>
+</entry>
 <entry>
 <title>検索広告　自動入札の機能改善 実施日再延期のお知らせ</title>
 <link href="https://ads-developers.yahoo.co.jp/developercenter/ja/announcement/202139.html"></link>
